@@ -6,3 +6,4 @@ print(mynames)
 for n in range(1,101):
     print(f"{n} {mynames[0]}")
     
+#end
